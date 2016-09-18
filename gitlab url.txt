@@ -1,0 +1,21 @@
+http://stackoverflow.com/questions/15757642/bitnami-gitlab-5-0-and-git-eclipse-egit-quick-start
+
+https://wiki.bitnami.com/Applications/BitNami_GitLab-->gitlab document
+
+https://docs.bitnami.com/google/apps/gitlab/-->gitlb document imp
+
+https://community.bitnami.com/c/gitlab--->total issues gitlab imp
+
+ssh issues 
+
+https://wiki.bitnami.com/Virtual_Appliances_Quick_Start_Guide#How_to_enable_sshd.3f
+
+https://community.bitnami.com/t/clone-through-ssh-does-not-work-asks-for-credentials/43598/2
+
+gitlab ldap
+
+https://github.com/gitlabhq/gitlabhq/issues/3934
+
+git benfits
+
+https://about.gitlab.com/comparison/
